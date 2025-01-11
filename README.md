@@ -1,1 +1,11 @@
-# CODETECADV4
+CODTECHTask4 Name:HARIPRIYA K T Company:CODTECH IT SOLUTIONS ID:CTO8DQR Domain:Data Science Duration:December12th,2024 to January 12th,2025
+Project Description: Transportation Cost Minimization
+Project Overview:
+This project focuses on optimizing the transportation of goods from multiple warehouses to multiple customers to minimize transportation costs. The objective is to efficiently allocate resources (goods) from warehouses to customers while considering the supply and demand constraints at each location. The optimization problem is formulated as a linear programming model, and the solution is obtained using the PuLP library in Python.
+
+The project addresses a common real-world problem in logistics, aiming to achieve cost savings by minimizing transportation expenses while meeting all supply and demand requirements.
+
+This project focuses on optimizing transportation costs by efficiently allocating goods from multiple warehouses to customers, considering supply and demand constraints. Key features of the solution include the minimization of transportation costs, adherence to warehouse supply capacities and customer demand requirements, and the use of linear programming for optimization. The methodology involves formulating the problem as a linear programming model using the PuLP library, with decision variables representing shipping quantities, an objective function to minimize transportation costs, and constraints to ensure supply and demand are met. The results of the model provide the optimal shipping quantities and the minimum total transportation cost, which are visualized using heatmaps and bar charts to offer insights into the shipping flow, cost breakdowns, and supply-demand comparison. The technology stack includes Python, PuLP for solving the optimization problem, and matplotlib and seaborn for visualizations, along with pandas and numpy for data management. This solution has broad applications in logistics and supply chain management, where minimizing transportation costs is crucial for operational efficiency, cost reduction, and even environmental sustainability by optimizing shipping routes.
+![image](https://github.com/user-attachments/assets/5611f9fa-854c-4ef6-b0d8-9a8d05f044e7)
+![image](https://github.com/user-attachments/assets/8a2b76cf-2ca7-4a77-b35d-056924ab3970)
+![image](https://github.com/user-attachments/assets/93017a7d-2541-4fce-b3e2-49213a7ba699)
