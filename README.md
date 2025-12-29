@@ -1,4 +1,4 @@
-CODTECHTask4 Name:HARIPRIYA K T Company:CODTECH IT SOLUTIONS ID:CTO8DQR Domain:Data Science Duration:December12th,2024 to January 12th,2025
+
 Project Description: Transportation Cost Minimization
 Project Overview:
 This project focuses on optimizing the transportation of goods from multiple warehouses to multiple customers to minimize transportation costs. The objective is to efficiently allocate resources (goods) from warehouses to customers while considering the supply and demand constraints at each location. The optimization problem is formulated as a linear programming model, and the solution is obtained using the PuLP library in Python.
